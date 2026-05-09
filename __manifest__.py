@@ -1,9 +1,9 @@
 {
     "name": "POS No Price Control",
-    "version": "19.0.1.0.0",
+    "version": "19.0.1.0.1",
     "category": "Point of Sale",
     "summary": "Bloquea permanentemente el cambio manual de precios en Punto de Venta",
-    "author": "Silva tehcnologies",
+    "author": "SISPAV",
     "license": "LGPL-3",
     "depends": ["point_of_sale"],
     "assets": {
